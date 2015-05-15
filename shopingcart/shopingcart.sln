@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "shopingcart", "..\..\..\..\Desktop\shopingcart\", "{A370125C-F7B5-4050-ACEA-93E427218478}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/shopingcart"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\shopingcart\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\shopingcart\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/shopingcart"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\shopingcart\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\shopingcart\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1186"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A370125C-F7B5-4050-ACEA-93E427218478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A370125C-F7B5-4050-ACEA-93E427218478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
